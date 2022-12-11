@@ -1,2 +1,2 @@
-# CP
+C++
 DSA related questions
